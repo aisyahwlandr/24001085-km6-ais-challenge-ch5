@@ -1,0 +1,5 @@
+runtime: nodejs20
+# service: chapter-5-challenge-5
+
+vpc_access_connector:
+    name: "projects/kampus-merdeka-6-aisyah/locations/asia-southeast2/connectors/connect-sql"
